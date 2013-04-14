@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=Fruit(Fruit.FruitType)
+comment1.params=
+comment1.target=Fruit.FruitType\ getType()
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=receiver
+comment0.target=moveDownCommand(PacMan)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ moveDownCommand\n
+comment1.params=
+comment1.target=void\ execute1()
+numComments=2

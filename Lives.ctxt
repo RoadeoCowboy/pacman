@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lives()
+comment1.params=
+comment1.target=Lives\ getInstance()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=int\ getLives()
+numComments=5

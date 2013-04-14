@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Inky()
+comment1.params=
+comment1.target=Inky\ getInky()
+comment2.params=isw
+comment2.target=void\ setStrategy(boolean)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Pinky\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=4

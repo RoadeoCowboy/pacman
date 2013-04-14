@@ -1,0 +1,21 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (synchronizer.cpp:1427), pid=13313, tid=1865415488
+#  guarantee(obj->mark() == markOopDesc::encode(mid)) failed: invariant
+#
+# JRE version: 7.0_07-b10
+# Java VM: Java HotSpot(TM) Server VM (23.3-b01 mixed mode linux-x86 )
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.sun.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x6f1b8400):  VMThread [stack: 0x6f27f000,0x6f300000] [id=13325]
+
+Stack: [0x6f27f000,0x6f300000],  sp=0x6f2fec90,  free space=511k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [libjvm.so+0x7201e9]

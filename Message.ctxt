@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=Message(int,\ int)
+comment1.params=msg\ x\ y
+comment1.target=void\ setText(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
